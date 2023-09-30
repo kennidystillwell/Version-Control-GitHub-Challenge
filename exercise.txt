@@ -1,0 +1,10 @@
+1. What is the Terminal?
+The terminal is command line interface, which is what was around before guided user interface came to surface. It allows you to interact directly with your computer's operating system. When using the terminal, you can type commands, create folders and files, open documents, etc.
+
+
+2. What is the major difference between Git and Github?
+Git is a version control system that allows the user to keep track of their code's history, while Github is a hosting service that allows you to manage the repositories you create.
+
+
+3. What are the steps to fork a Github repository?
+Before forking a repository you must know what it means to fork a Github repository. When you fork a repository, it creates a copy of an existing repository that disconnects itself from other committers. When you wish to fork a repository in Github, there is a button location near the top right of the page that says "Fork". After clicking the button, a new forked repository is created in your account.
